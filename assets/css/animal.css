@@ -1,13 +1,1 @@
-label{float:right;
-margin-right:50px;}
-button{
-	background-color:blue;
-	color:white;
-}
-#animal-input{
-	float:right;
-	margin-top:20px;
-}
-#addaanimal{
-	float:right;
-}
+#animal-form{text-align:center;}
